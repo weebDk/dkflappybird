@@ -4,4 +4,4 @@
 -- A very special thanks to @samuelcust for providing this game elements
 
 
-<img src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFpMXl0d2JmdmhjbGp5b2lyN294NDBzNXI1Y2RiM2NrdTA3N2JqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ylOHgLDKw7eD8WgoB/giphy.gif" alt="GameDevelopment"/>
+<img src ="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFpMXl0d2JmdmhjbGp5b2lyN294NDBzNXI1Y2RiM2NrdTA3N2JqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ylOHgLDKw7eD8WgoB/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2kwOGRoZ3NkbzEzZWd4NmxtYTdxMDM0ZGNtcW1xdnlpbnB0ODdsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/euuaA2cwLEUuI/giphy.gif)" alt="GameDevelopment"/>
